@@ -55,7 +55,7 @@
           },
           "_anchor": "header4-1",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463839346397-8e9946845e6d-2000x1335-13.jpg",
@@ -834,7 +834,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-451.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-452.png",
               "width": 1400,
               "link": "",
               "alt": "",
