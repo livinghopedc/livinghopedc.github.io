@@ -56,7 +56,7 @@
           "_anchor": "header4-1",
           "_params": {
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463839346397-8e9946845e6d-2000x1335-13.jpg",
             "bgColor": "#a07e49",
@@ -66,8 +66,8 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/2G0WjFtOcuM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
+            "bgVideoRadio": true,
+            "overlay": true,
             "overlayOpacity": "0.2",
             "overlayColor": "#c0a375",
             "contentAlign": "center",
@@ -834,7 +834,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-452.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-453.png",
               "width": 1400,
               "link": "",
               "alt": "",
