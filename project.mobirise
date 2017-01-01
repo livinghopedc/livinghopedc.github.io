@@ -834,7 +834,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-450.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-451.png",
               "width": 1400,
               "link": "",
               "alt": "",
