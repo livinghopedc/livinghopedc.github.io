@@ -55,11 +55,11 @@
           },
           "_anchor": "header4-1",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463839346397-8e9946845e6d-2000x1335-13.jpg",
-            "bgColor": "#a07e49",
+            "bgColor": "#7e9b9f",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
@@ -683,7 +683,7 @@
           },
           "title": "GIVING<br>",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\"...God loves a cheerful giver\" 2 Cor. 9:6</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://my.simplegive.com/g3/h/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE TO GIVE ONLINE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://my.simplegive.com/dl/?uid=livi1200252\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK HERE TO GIVE ONLINE</a>"
         },
         {
           "_tags": [
@@ -791,7 +791,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-v\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-d\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extForm3-g\">Living Hope DC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extForm3-3\">Esperanza Viva</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extForm3-h\">Small Groups</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCovovWAHqkV4Iz7WI13bbRg\" target=\"_blank\">Stream Live! (YouTube Live)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://livinghopedc.podbean.com/\" target=\"_blank\">Media Archive</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://open.spotify.com/user/harvardman/playlist/1wgmnPWfCYMXNBZPyS3fvB\" target=\"_blank\">Spotify Playlist</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#content1-o\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">GIVING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-l\">Ways to Give (Text + Online)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://my.simplegive.com/g3/h/\" target=\"_blank\">Give Online Now!</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#social-buttons2-r\">CONNECT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-v\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-d\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-d\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extForm3-g\">Living Hope DC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extForm3-3\">Esperanza Viva</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extForm3-h\">Small Groups</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCovovWAHqkV4Iz7WI13bbRg\" target=\"_blank\">Stream Live! (YouTube Live)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://livinghopedc.podbean.com/\" target=\"_blank\">Media Archive</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://open.spotify.com/user/harvardman/playlist/1wgmnPWfCYMXNBZPyS3fvB\" target=\"_blank\">Spotify Playlist</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#content1-o\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">GIVING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box3-l\">Ways to Give (Text + Online)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://my.simplegive.com/g3/h/\" target=\"_blank\">Give Online Now!</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#social-buttons2-r\">CONNECT</a></li>"
         },
         {
           "_styles": {
@@ -834,7 +834,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-454.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-450.png",
               "width": 1400,
               "link": "",
               "alt": "",
