@@ -77,7 +77,7 @@
           },
           "title": "Sharing the Gospel across our nation's capitol&nbsp;",
           "text": "Over 35 cultures. Locations across the DC Metro area.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-d\" data-toolbar=\"-mbrBtnMove\">JOIN US!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box5-u\" data-toolbar=\"-mbrBtnMove\">January 2017: 21 DAYS OF PRAYER + FASTING</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-d\" data-toolbar=\"-mbrBtnMove\">JOIN US!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box5-u\" data-toolbar=\"-mbrBtnMove\">Join Morning Prayer + Devotion: STREAM LIVE!</a>"
         },
         {
           "_inherit": "social-buttons1",
@@ -141,7 +141,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-31-at-7-1400x1177-86.png",
+              "src": "@PROJECT_PATH@/assets/images/morning-1400x1187-73.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -159,9 +159,14 @@
               "size": 0
             }
           },
-          "title": "21 DAYS OF&nbsp;<div>PRAYER + FASTING</div>",
-          "text": "Join us LIVE for prayer every morning via YouTube.<br>Live stream sessions January 2-22, 2017, 5-6am .<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCovovWAHqkV4Iz7WI13bbRg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live streaming link at 5am &gt;&gt;</a>"
+          "title": "MORNING&nbsp;<div>&nbsp;DEVOTIONAL+ PRAYER</div>",
+          "text": "<p>Join us&nbsp;<b>LIVE</b> for focused prayer and<br>&nbsp;devotion to launch your day! <br><b>Live stream sessions Mon - Fri, 5-6am.<br></b>Every morning via YouTube stream.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCovovWAHqkV4Iz7WI13bbRg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live streaming link at 5am &gt;&gt;</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            }
+          }
         },
         {
           "_tags": [
@@ -834,7 +839,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-451.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-454.png",
               "width": 1400,
               "link": "",
               "alt": "",
