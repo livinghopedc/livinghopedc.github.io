@@ -21,10 +21,12 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "3.10.3",
     "favicon": "@PROJECT_PATH@/assets/images/livinghopedc-128x128-47.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -37,6 +39,58 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-y",
+          "_params": {
+            "imageSize": "51",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/living-hope-easter-card-1400x1081-60.png",
+              "link": "",
+              "alt": "Living Hope Washington DC - Join us for Easter",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "JOIN US FOR EASTER!",
+          "text": "Come to Living Hope DC for <br>Resurrection Sunday.<br>$250 gift card prizes for first-time visitors.<br>Reception following our 4:30 worship.<br><b>Connections for the whole family!&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
         {
           "_inherit": "header1",
           "_tags": [
@@ -115,6 +169,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
           "_anchor": "msg-box5-u",
           "_params": {
             "imageSize": 50,
@@ -161,12 +220,7 @@
           },
           "title": "MORNING&nbsp;<div>&nbsp;DEVOTIONAL+ PRAYER</div>",
           "text": "<p>Join us&nbsp;<b>LIVE</b> for focused prayer and<br>&nbsp;devotion to launch your day! <br><b>Live stream sessions Mon - Fri, 5-6am.<br></b>Every morning via YouTube stream.<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCovovWAHqkV4Iz7WI13bbRg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live streaming link at 5am &gt;&gt;</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "13px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCovovWAHqkV4Iz7WI13bbRg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Live streaming link at 5am &gt;&gt;</a>"
         },
         {
           "_tags": [
@@ -367,7 +421,7 @@
             "showSubtitle": true,
             "showText": true,
             "showForm": false,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">JOIN US!</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "title": "Living Hope DC",
           "media1": {
@@ -782,11 +836,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/livinghopedclogo-411x128-96.png",
+              "src": "@PROJECT_PATH@/assets/images/living-hope-logo-205x128-69.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Living Hope DC",
               "link": "index.html",
-              "title": "",
+              "title": "Living Hope DC",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -839,7 +893,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-454.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-450.png",
               "width": 1400,
               "link": "",
               "alt": "",
