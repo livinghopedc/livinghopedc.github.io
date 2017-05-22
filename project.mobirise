@@ -89,7 +89,7 @@
             }
           },
           "title": "EXPERIENCE<br>PENTECOST",
-          "text": "Join us Sunday, June 4 for Pentecost Sunday!.",
+          "text": "Join us Sunday, June 4 for Pentecost Sunday!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -894,7 +894,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-450.png",
+              "src": "@PROJECT_PATH@/assets/images/dc-map-1400x633-451.png",
               "width": 1400,
               "link": "",
               "alt": "",
